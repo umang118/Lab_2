@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android लैब्स</string>
+    <string name="hello_message">नमस्ते दुनिया!!!</string>
+    <string name="ButtonText">मैं एक बटन हूँ </string>
+
+    <string name="textView">मेरे जीयूआई को देखो !!</string>
+    <string name="button">यहाँ क्लिक करें</string>
+    <string name="checkBox">इसकी जांच करें!!</string>
+    <string name="switch1">चालू करना / बंद करना</string>
+    <string name="editText">यहा लिखो</string>
+
+
+
+</resources>
